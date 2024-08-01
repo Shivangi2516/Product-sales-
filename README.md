@@ -13,6 +13,9 @@ Preferrrable steps used:-
    b.INDEX and MATCH 
    c. XLOOKUP
 Performed two tasks to complete these steps.
+
+
+
 --------------- Task1: Cleaning the bad data:---------------
 
 For orders table:
