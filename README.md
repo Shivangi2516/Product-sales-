@@ -44,7 +44,7 @@ For the customer table:
 
 	- Converted all customer names to lowercase.
 
-	- Copyed all customer name values, then paste them permanently using 'Paste Special' -> 'Values'.
+	- Copied all customer name values, then paste them permanently using 'Paste Special' -> 'Values'.
 
 
 
